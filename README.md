@@ -8,3 +8,12 @@
 
 5. 第四次提交
 
+6. 分支2第一次commit
+
+7. 分支2第二次commit
+
+8. 分支2第二次commit
+
+9. 分支2第四次commit  
+
+10. 创建MR之后的commit
